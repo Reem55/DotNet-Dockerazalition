@@ -1,0 +1,5 @@
+/home/reem/Desktop/dotnet/App/bin/Release/net7.0/publish/DotNet.Docker
+/home/reem/Desktop/dotnet/App/bin/Release/net7.0/publish/DotNet.Docker.dll
+/home/reem/Desktop/dotnet/App/bin/Release/net7.0/publish/DotNet.Docker.deps.json
+/home/reem/Desktop/dotnet/App/bin/Release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/home/reem/Desktop/dotnet/App/bin/Release/net7.0/publish/DotNet.Docker.pdb

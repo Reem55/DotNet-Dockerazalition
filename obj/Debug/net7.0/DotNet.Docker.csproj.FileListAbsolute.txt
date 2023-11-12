@@ -1,0 +1,14 @@
+/home/reem/Desktop/dotnet/App/bin/Debug/net7.0/DotNet.Docker
+/home/reem/Desktop/dotnet/App/bin/Debug/net7.0/DotNet.Docker.deps.json
+/home/reem/Desktop/dotnet/App/bin/Debug/net7.0/DotNet.Docker.runtimeconfig.json
+/home/reem/Desktop/dotnet/App/bin/Debug/net7.0/DotNet.Docker.dll
+/home/reem/Desktop/dotnet/App/bin/Debug/net7.0/DotNet.Docker.pdb
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfo.cs
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/DotNet.Docker.dll
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/refint/DotNet.Docker.dll
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/DotNet.Docker.pdb
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/DotNet.Docker.genruntimeconfig.cache
+/home/reem/Desktop/dotnet/App/obj/Debug/net7.0/ref/DotNet.Docker.dll
